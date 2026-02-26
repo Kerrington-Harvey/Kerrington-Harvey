@@ -17,4 +17,4 @@ Fraud Risk & Trust & Safety professional with 9+ years of experience across plat
 
 ---
 
-📎 [LinkedIn](www.linkedin.com/in/kerringtonharvey)
+📎 [LinkedIn](https://www.linkedin.com/in/kerringtonharvey)
