@@ -11,7 +11,7 @@ Fraud Risk & Trust & Safety professional with 9+ years of experience across plat
 ---
 
 ### Projects
-- 🔍 **fraud-detection-sql** - SQL queries and detection logic for platform fraud, trust & safety, and risk operations use cases *(coming soon)*
+- 🔍 **fraud-detection-sql** - SQL queries and detection logic for platform fraud, trust & safety, and risk operations use cases
 - 📋 **custie-fraud-framework** - End-to-end fraud operations framework built from scratch: KYC/KYB onboarding, detection logic, risk controls, and escalation workflows
 - ⚙️ **chargeback-workflow** - Dispute and chargeback review workflow documentation for platform fraud operations
 
