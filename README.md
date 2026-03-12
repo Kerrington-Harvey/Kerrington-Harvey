@@ -1,8 +1,6 @@
 **Kerrington Harvey**
 
-Fraud Risk & Trust & Safety professional with 9+ years of experience across platform fraud, financial crimes, and risk operations.
-
-**Focus areas:** Platform Fraud · KYC/KYB · Detection Logic · Trust & Safety · Risk Operations
+Fraud Operations & Risk Management professional with 9+ years across financial crime, platform fraud, and investigations
 
 **Technical:** SQL · Python · Neo4j · Tableau · AWS
 
