@@ -4,7 +4,7 @@ Fraud Strategy & Operations professional with experience spanning fraud investig
 
 **Technical:** SQL · Python · Neo4j · Tableau · AWS
 
-**Credentials:** CFE | MS Data Analytics | DBA Candidate (AI focus) | Neo4j Certified Professional
+**Credentials:** CFE | MS Data Analytics | Neo4j Certified Professional
 
 ---
 
